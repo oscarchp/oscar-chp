@@ -1,2 +1,1 @@
-# oscar-chp
-Este es mi primer repositorio
+prueba de como crear un repositorio y clonarlo desde github a mi compputadora
